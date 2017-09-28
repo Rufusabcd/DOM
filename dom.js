@@ -1,0 +1,1 @@
+var getButton = document.getElementsByClassName('button')
